@@ -26,6 +26,8 @@
 ![nexus-artifact](img/img-6.png)
 8. Мигрируйте `build configuration` в репозиторий.
 ![build-configuration](img/img-7.png)
+![build-configuration2](img/img-11.png)
+![build-configuration3](img/img-12.png)
 9. Создайте отдельную ветку `feature/add_reply` в репозитории.
 10. Напишите новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово `hunter`.
 ![feature/add_reply](img/img-8.png)
